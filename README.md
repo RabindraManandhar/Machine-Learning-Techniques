@@ -1,7 +1,5 @@
 # Machine-Learning-Techniques
 
-<<<<<<< HEAD
-=======
 ### 1. Clustering: Drone delivery system
 
 Goal: The goal is to find ideal locations for a set of drone depots, based on the coordinates of the clients using:
@@ -14,7 +12,7 @@ Packages:
 * numpy
 * seaborn
 * matplotlib
-* sklearn
+* sklearn (scikit-learn)
 * scipy
 
 ### 2. Decision-Tree: Phishing Websites
@@ -26,10 +24,15 @@ Goal: The goal is to construct a small yet useful decision tree that predicts wh
 Packages:
 * pandas
 * numpy
-* sklearn
+* sklearn (scikit-learn)
 * graphviz
 
+### 3. Linear Regression
 
+Goal: The goal is to build a regression model that predict the values of the chosen response vairable using linear regression analysis.
 
->>>>>>> refs/remotes/origin/main
+Packages:
+* pandas
+* sklearn (scikit-learn)
+
 
